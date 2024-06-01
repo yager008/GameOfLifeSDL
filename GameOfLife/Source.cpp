@@ -14,6 +14,10 @@ int main(int argc, char* args[])
 	//The window we'll be rendering to
 	SDL_Window* window = NULL;
 
+	printf("hello world");
+	
+	
+
 	//The surface contained by the window
 	SDL_Surface* screenSurface = NULL;
 
