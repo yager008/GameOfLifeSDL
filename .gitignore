@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GameOfLife/GameOfLife.vcxproj.filters
+/GameOfLife/GameOfLife.vcxproj
+/.vs/GameOfLife/v17/Browse.VC.opendb
